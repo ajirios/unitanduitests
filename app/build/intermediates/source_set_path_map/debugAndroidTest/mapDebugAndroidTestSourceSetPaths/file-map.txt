@@ -1,0 +1,6 @@
+osauzo.ajiri.unitanduitests.test.app-tracing-1.2.0-0 /Users/user/.gradle/caches/8.9/transforms/7818abf09245d942e60c31901b6969f5/transformed/tracing-1.2.0/res
+osauzo.ajiri.unitanduitests.test.app-core-1.6.1-1 /Users/user/.gradle/caches/8.9/transforms/d4004a4b3bb34736c32c3c003ea105b2/transformed/core-1.6.1/res
+osauzo.ajiri.unitanduitests.test.app-androidTest-2 /Users/user/AndroidStudioProjects/UnitAndUITests/app/build/generated/res/resValues/androidTest/debug
+osauzo.ajiri.unitanduitests.test.app-mergeDebugAndroidTestResources-3 /Users/user/AndroidStudioProjects/UnitAndUITests/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+osauzo.ajiri.unitanduitests.test.app-mergeDebugAndroidTestResources-4 /Users/user/AndroidStudioProjects/UnitAndUITests/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+osauzo.ajiri.unitanduitests.test.app-debugAndroidTest-5 /Users/user/AndroidStudioProjects/UnitAndUITests/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

@@ -1,0 +1,318 @@
+08-02 19:27:35.749 12533 12546 I TestRunner: started: enterABCDEF_thenOpenActivity_displaysTextInShowTextActivity(osauzo.ajiri.unitanduitests.ExampleInstrumentedTest)
+08-02 19:27:35.762 12533 12546 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-02 19:27:35.785   610  1721 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@ea1ae55e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 19:27:35.801  1187  1187 W SplitSelectStateCtor: Missing session instanceIds
+08-02 19:27:35.801  1187  1187 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+08-02 19:27:35.805   425   425 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 19:27:35.815  1187  1187 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=141, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }
+08-02 19:27:35.842   470  4017 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 19:27:35.867  1187  1643 D EGL_emulation: app_time_stats: avg=157.30ms min=3.10ms max=3360.96ms count=24
+08-02 19:27:35.905 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: PRE_ON_CREATE
+08-02 19:27:35.906 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-02 19:27:35.936   885  1009 D EGL_emulation: app_time_stats: avg=2527.15ms min=12.24ms max=20003.87ms count=8
+08-02 19:27:35.941  1187  1643 D EGL_emulation: app_time_stats: avg=1334.42ms min=1.66ms max=19759.44ms count=15
+08-02 19:27:36.042 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: CREATED
+08-02 19:27:36.048 12533 12533 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=osauzo.ajiri.unitanduitests.MainActivity@b6402c6
+08-02 19:27:36.052 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: STARTED
+08-02 19:27:36.054 12533 12533 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=osauzo.ajiri.unitanduitests.MainActivity@b6402c6
+08-02 19:27:36.070 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: RESUMED
+08-02 19:27:36.073 12533 12533 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=osauzo.ajiri.unitanduitests.MainActivity@b6402c6
+08-02 19:27:36.087 12533 12533 W HWUI    : Unknown dataspace 0
+08-02 19:27:36.180   425   468 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10251 pid=0
+08-02 19:27:36.180   425   468 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10251 => denied (634 us)
+08-02 19:27:36.180   425   468 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10251 pid=0
+08-02 19:27:36.180   425   468 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10251 => denied (384 us)
+08-02 19:27:36.181   425   564 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10251 pid=12533
+08-02 19:27:36.181   425   468 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10251 pid=0
+08-02 19:27:36.181   425   564 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10251 => denied (498 us)
+08-02 19:27:36.182   425   468 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10251 => denied (1414 us)
+08-02 19:27:36.187 12533 12548 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+08-02 19:27:36.192 12533 12548 I EGL_emulation: Opening libGLESv2_emulation.so
+08-02 19:27:36.203  1187  1187 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 19:27:36.206  1187  1187 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+08-02 19:27:36.281 12533 12548 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+08-02 19:27:36.281 12533 12548 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+08-02 19:27:36.312   164   164 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+08-02 19:27:36.313 12533 12548 I Gralloc4: mapper 4.x is not supported
+08-02 19:27:36.419   610  1721 W ServiceManagerCppClient: Permission failure: android.permission.ACCESS_SURFACE_FLINGER from uid=10251 pid=0
+08-02 19:27:36.419   610  1721 D PermissionCache: checking android.permission.ACCESS_SURFACE_FLINGER for uid=10251 => denied (150 us)
+08-02 19:27:36.419   610  1721 W ServiceManagerCppClient: Permission failure: android.permission.ROTATE_SURFACE_FLINGER from uid=10251 pid=0
+08-02 19:27:36.420   610  1721 D PermissionCache: checking android.permission.ROTATE_SURFACE_FLINGER for uid=10251 => denied (118 us)
+08-02 19:27:36.420   610  1721 W ServiceManagerCppClient: Permission failure: android.permission.INTERNAL_SYSTEM_WINDOW from uid=10251 pid=0
+08-02 19:27:36.420   610  1721 D PermissionCache: checking android.permission.INTERNAL_SYSTEM_WINDOW for uid=10251 => denied (110 us)
+08-02 19:27:36.430   610   636 W ziparchive: Unable to open '/data/app/~~TeLeVeULVxquqvu-QWEsLA==/osauzo.ajiri.unitanduitests-ccQsx1wP_IDSxzrH7Scj3A==/base.dm': No such file or directory
+08-02 19:27:36.435   610   636 I ActivityTaskManager: Displayed osauzo.ajiri.unitanduitests/.MainActivity for user 0: +651ms
+08-02 19:27:36.438  1187  1187 D BaseDepthController: setSurface:
+08-02 19:27:36.438  1187  1187 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+08-02 19:27:36.438  1187  1187 D BaseDepthController: 	mSurface: null
+08-02 19:27:36.445  1187  1187 D BaseDepthController: mSurface is null and mCurrentBlur is: 0
+08-02 19:27:36.450  1187  1187 D StateManager: goToState - fromState: Normal, toState: Normal, partial trace:
+08-02 19:27:36.450  1187  1187 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:4)
+08-02 19:27:36.450  1187  1187 D StateManager: 	at com.android.launcher3.statemanager.StateManager.moveToRestState(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:1)
+08-02 19:27:36.450  1187  1187 D StateManager: 	at com.android.launcher3.statemanager.StatefulActivity.onStop(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:34)
+08-02 19:27:36.468 12533 12546 W FileTestStorage: Output properties is not supported.
+08-02 19:27:36.471 12533 12546 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+08-02 19:27:36.475  1187  1187 D StatsLog: LAUNCHER_ONSTOP
+08-02 19:27:36.478  1187  1187 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+08-02 19:27:36.480  1187  1731 D OneSearchSuggestProvider: Shut down the binder channel
+08-02 19:27:36.484 12533 12546 D CompatChangeReporter: Compat change id reported: 247079863; UID 10251; state: ENABLED
+08-02 19:27:36.491  6537  7023 I IPCThreadState: oneway function results for code 2 on binder at 0x7e50541422f0 will be dropped but finished with status UNKNOWN_TRANSACTION
+08-02 19:27:36.496  1187  1204 I IPCThreadState: oneway function results for code 2 on binder at 0x7e5054164100 will be dropped but finished with status UNKNOWN_TRANSACTION
+08-02 19:27:36.496   610   751 I ImeTracker: osauzo.ajiri.unitanduitests:ab4ce207: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-02 19:27:36.497   610   751 I ImeTracker: osauzo.ajiri.unitanduitests:ab4ce207: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-02 19:27:36.508 12533 12546 D EventInjectionStrategy: Creating injection strategy with input manager.
+08-02 19:27:36.512 12533 12546 W .unitanduitests: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+08-02 19:27:36.515 12533 12546 W .unitanduitests: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+08-02 19:27:36.518  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2045
+08-02 19:27:36.519  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 19:27:36.521  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1311 onStartInput(EditorInfo{EditorInfo{packageName=osauzo.ajiri.unitanduitests, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 19:27:36.524 12533 12546 W .unitanduitests: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+08-02 19:27:36.526  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 19:27:36.564 12533 12546 W .unitanduitests: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+08-02 19:27:36.573 12533 12533 W .unitanduitests: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+08-02 19:27:36.574 12533 12533 W .unitanduitests: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+08-02 19:27:36.574 12533 12533 W .unitanduitests: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+08-02 19:27:36.599 12533 12533 I ViewInteraction: Performing 'type text(abcdef)' action on view view.getId() is <2131230896/osauzo.ajiri.unitanduitests:id/editTextUserInput>
+08-02 19:27:36.617  1142  1555 I FontLog : (REDACTED) Received query %s, URI %s
+08-02 19:27:36.617  1142  1555 I FontLog : (REDACTED) Query [%s] resolved to %s
+08-02 19:27:36.619  1142  1555 I FontLog : (REDACTED) Fetch %s end status %s
+08-02 19:27:36.633  1142  1555 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+08-02 19:27:36.647  1142  1555 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+08-02 19:27:36.716   470  4485 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 19:27:36.720 12533 12533 I ImeTracker: osauzo.ajiri.unitanduitests:d7589f8e: onRequestShow at ORIGIN_CLIENT reason SHOW_SOFT_INPUT fromUser true
+08-02 19:27:36.723  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2045
+08-02 19:27:36.725 12533 12533 D InputMethodManager: showSoftInput() view=android.widget.EditText{5f0483b VFED..CL. .F.P..ID 48,244-1296,380 #7f0800b0 app:id/editTextUserInput aid=1073741824} flags=0 reason=SHOW_SOFT_INPUT
+08-02 19:27:36.727  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 19:27:36.732  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:36.732   885   978 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@81b1da0
+08-02 19:27:36.734   610  1897 W InputManager-JNI: Input channel object '93a22f7 Splash Screen osauzo.ajiri.unitanduitests (client)' was disposed without first being removed with the input manager!
+08-02 19:27:36.739  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1311 onStartInput(EditorInfo{EditorInfo{packageName=osauzo.ajiri.unitanduitests, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=40000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131230896, fieldName=null, extras=Bundle[mParcelledData.dataSize=168], hintText=non-empty, hintLocales=[]}}, false)
+08-02 19:27:36.747 12533 12533 I AssistStructure: Flattened final assist data: 1404 bytes, containing 1 windows, 5 views
+08-02 19:27:36.765  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 19:27:36.768  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onStartInputView():1406 onStartInputView(EditorInfo{EditorInfo{packageName=osauzo.ajiri.unitanduitests, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=40000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131230896, fieldName=null, extras=Bundle[{androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true}], hintText=non-empty, hintLocales=[]}}, false)
+08-02 19:27:36.769  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.getOemKeyboardHeightRatio():108 systemKeyboardHeightRatio:1.000000.
+08-02 19:27:36.776  7411  7411 I AndroidIME: InputBundleManager.loadActiveInputBundleId():527 loadActiveInputBundleId: en-US, ime_english_united_states
+08-02 19:27:36.776  7411  7411 I AndroidIME: AbstractIme.onActivate():96 LatinIme.onActivate() : EditorInfo = EditorInfo{packageName=osauzo.ajiri.unitanduitests, inputType=20001, inputTypeString=Normal[MultiLine], enableLearning=true, autoCorrection=true, autoComplete=true, imeOptions=40000006, privateImeOptions=null, actionName=DONE, actionLabel=null, initialSelStart=0, initialSelEnd=0, initialCapsMode=0, label=null, fieldId=2131230896, fieldName=null, extras=Bundle[{androidx.core.view.inputmethod.EditorInfoCompat.STYLUS_HANDWRITING_ENABLED=true}], hintText=non-empty, hintLocales=[]}, IncognitoMode = false, DeviceLocked = false
+08-02 19:27:36.779  7411  7411 I InputBundle: InputBundle.consumeEvent():999 Skip consuming an event as keyboard status is 0
+08-02 19:27:36.780  7411  7411 I Delight5Facilitator: Delight5Facilitator.initializeForIme():729 initializeForIme() : Locale = [en_US], layout = qwerty
+08-02 19:27:36.783  7411  7411 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1263 inline flag updated to:false
+08-02 19:27:36.784  7411  7411 I LatinIme: LatinIme.updateEnableInlineSuggestionsOnDecoderSideFlags():1263 inline flag updated to:false
+08-02 19:27:36.795  7411  7411 I InputBundle: InputBundle.consumeEvent():999 Skip consuming an event as keyboard status is 0
+08-02 19:27:36.796  7411  7411 I LatinIme: LatinIme.resetInputContext():2268 resetInputContext(): reason=1, externalEditsInfo=ExternalEditsInfo{action=0, offset=-1, text=null, originalText=null, edits=null}
+08-02 19:27:36.796  7411  7411 I InputBundle: InputBundle.consumeEvent():999 Skip consuming an event as keyboard status is 0
+08-02 19:27:36.797  7411  7411 I KeyboardWrapper: KeyboardWrapper.activateKeyboard():580 activateKeyboard(): type=prime, status=0, imeDef=mah{stringId=ime_english_united_states, language=en-US, languageTag=en-US, processedConditions={enable_number_row=false, device=phone, enable_pk_simulator=false}, className=com.google.android.libraries.inputmethod.ime.experiment.ExperimentImeWrapper, label=0, keyEventInterpreter=null, inlineComposing=true, autoCapital=true, announceAutoSelectedCandidate=true, statusIcon=0, indicatorIcon=0, indicatorLabel=US, displayAppCompletions=true, extraValues=maa{#0x7f0b0258=TypedValue{t=0x3/d=0x0 "writing_helper_enable_by_word_revert=false"}, #0x7f0b025e=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}, #0x7f0b025f=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.edittracker.EditTrackingImeWrapper"}, #0x7f0b0260=TypedValue{t=0x3/d=0x0 "com.google.android.apps.inputmethod.libs.latin5.LatinIme"}}, processors=mby@cf1efb, unacceptableMetaKeys=4098, languageSpecificSettings=0, asciiCapable=true, alwaysShowSuggestions=false, useAsciiPasswordKeyboard=false, keyboardGroupDef=mbh@cf72621, phenotypeFlagId=0, localizationLanguageTag=null, supportsInlineSuggestion=true}
+08-02 19:27:36.797  7411  7411 I KeyboardManager: KeyboardManager.requestKeyboard():248 Creating keyboard prime, imeId=ime_english_united_states, cacheKey=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,EXPRESSION_PREMIUM_INPUT_V1,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.532579,POPUP,SCREEN_SHORTEST_WIDTH=448,SCREEN_SHORTEST_WIDTH_NO_SCALE=448,SW400DP,XXHDPI,bottom4dp,enable_google_fonts_icons=true,enable_popup_on_keypress=true,enable_premium_exp_header=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff2a4174-9f267084e50f3190bb31f2be00757ba0,silkpopup
+08-02 19:27:36.798  7411  7411 I KeyboardWrapper: KeyboardWrapper.onKeyboardReady():223 onKeyboardReady(): type=prime(prime), kb=com.google.android.apps.inputmethod.latin.keyboard.LatinPrimeKeyboard@7b81131
+08-02 19:27:36.798  7411  7411 I KeyboardWrapper: KeyboardWrapper.doActivateKeyboard():607 doActivateKeyboard(): prime
+08-02 19:27:36.799  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.800  7411  7411 I GlobeKeyExtension: GlobeKeyExtension.getKeyboardInitialStates():175
+08-02 19:27:36.801  7411  7411 W Keyboard: Keyboard.getKeyboardViewHelper():592 null helper is returned: keyboardDef=mbb{processedConditions={enable_more_candidates_view_for_multilingual=false, layout_9key_split=false, enable_secondary_symbols=false, language=en-US, deprecate_long_press_space_for_ime_picker=false, expressions=normal, show_comma_period_keys=true, enable_flick_symbols=false, variant=qwerty, device=phone, keyboard_mode=normal, show_secondary_digits=true, enable_preemptive_decode=true, rtl_layout=false, bottom_period_popup_slash=false}, globalConditions={global_theme_key=theme,!gsf,!pgsans,!pgsf,!use_system_font,BORDER,EXPRESSION_PREMIUM_INPUT_V1,FLAVOR_DPI=XXHDPI,GOOGLE_ICONS,IS_LIGHT,KEYBOARD_WIDTH_CATEGORY=NORMAL,KEY_BORDER_SHAPE=1,LIGHT_THEME=true,PHYSICAL_DIAGONAL=6.532579,POPUP,SCREEN_SHORTEST_WIDTH=448,SCREEN_SHORTEST_WIDTH_NO_SCALE=448,SW400DP,XXHDPI,bottom4dp,enable_google_fonts_icons=true,enable_popup_on_keypress=true,enable_premium_exp_header=true,keyboard_redesign_google_sans=true,noshadow,overlay_builtin_dynamic_color_light_base.binarypb:gm3-light-fffaf8ff-ff2a4174-9f267084e50f3190bb31f2be00757ba0,silkpopup, global_locale=en_US, global_density_dpi=480, global_orientation=1}, className=.latin.keyboard.LatinPrimeKeyboard, resourceIds=[#0x7f1705f4, #0x7f170871], initialStates=0, keyboardViewDefs=[mbp{direction=null, id=#0x7f0b019b, isScalable=true, layoutId=#0x7f0e035b, type=BODY, touchable=true, defaultShow=true}, mbp{direction=null, id=#0x7f0b019b, isScalable=false, layoutId=#0x7f0e01f0, type=FLOATING_CANDIDATES, touchable=false, defaultShow=false}, mbp{direction=LOCALE, id=#0x7f0b019b, isScalable=false, layoutId=#0x7f0e04f7, type=HEADER, touchable=true, defaultShow=true}], persistentStates=0, persistentStatesPrefKey=null, popupBubbleLayoutId=#0x7f0e05e9, recentKeyLayoutId=0, recentKeyPopupLayoutId=0, recentKeyType=null, rememberRecentKey=NONE, sessionStates=17592186044419}, type=WIDGET, helpersCreated=[lnu@b723992, lnu@6192f63, lnu@ebb8760, null], context.getResources().getConfiguration(): {1.0 310mcc260mnc [en_US] ldltr sw448dp w448dp h997dp 480dpi nrml long port finger qwerty/v/v dpad/v winConfig={ mBounds=Rect(0, 0 - 1344, 2992) mAppBounds=Rect(0, 0 - 1344, 2992) mMaxBounds=Rect(0, 0 - 1344, 2992) mDisplayRotation=ROTATION_0 mWindowingMode=fullscreen mActivityType=undefined mAlwaysOnTop=undefined mRotation=ROTATION_0} as.3 s.52 fontWeightAdjustment=0}
+08-02 19:27:36.803  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.808  7411  7411 I AndroidIME: InputBundleManager.startInput():362 startInput() with mbl[keyboardType=prime, payload=null]
+08-02 19:27:36.809  7411  7411 I GlobeKeyExtension: GlobeKeyExtension.onActivate():120
+08-02 19:27:36.812  1693  1693 D BoundBrokerSvc: onBind: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-02 19:27:36.813  7411  7411 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.cancelShutdown():109 cancelShutdown()
+08-02 19:27:36.814  7411  7411 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.syncLanguagePacks():121 syncLanguagePacks()
+08-02 19:27:36.813  1693  1693 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.mdd.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+08-02 19:27:36.816  7411  7760 I SpeechFactory: SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():193 maybeScheduleAutoPackDownloadForFallback()
+08-02 19:27:36.816  7411  7760 I FallbackOnDeviceRecognitionProvider: FallbackOnDeviceRecognitionProvider.maybeScheduleAutoPackDownload():198 maybeScheduleAutoPackDownload() for language tag en-US
+08-02 19:27:36.816  7411  7411 I VoiceInputManager: VoiceInputManager.onKeyboardActivated():1038 onKeyboardActivated() [UD]
+08-02 19:27:36.817  7411  7411 I PkModeUpdater: PkModeUpdater.onActivate():76 onActivate false true
+08-02 19:27:36.817  7411  7411 I AccessoryInputModeManager: AccessoryInputModeManager.onModeStarted():337 Accessory input mode started: null
+08-02 19:27:36.818  7411  7411 W SupplementaryKeyboardsWrapper: SupplementaryKeyboardsWrapper.deactivateKeyboard():161 keyboard accessory_candidates_consumer is not activated before!
+08-02 19:27:36.825  7411  7411 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():433 inch: 0.000000 ydpi: 480.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 480 defaultDensityDpi: 480 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -144 navBarHeight: 144
+08-02 19:27:36.826  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.827  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.828  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.828  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.829  7411  7411 W ExtensionWrapper: ExtensionWrapper.setExtensionViewVisibility():793 interface lrb is not activate
+08-02 19:27:36.831  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 19:27:36.833  7411  7411 I VoiceImeExtension: VoiceImeExtension.shouldStartVoiceInputAutomaticallyInCurrentInputBox():535 No private IME option set to start voice input.
+08-02 19:27:36.847  1693  1693 D BoundBrokerSvc: onBind: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+08-02 19:27:36.847  1693  1693 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.firebase.dynamiclinks.service.START pkg=com.google.android.gms }
+08-02 19:27:36.869  7411  7411 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():433 inch: 0.000000 ydpi: 480.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 480 defaultDensityDpi: 480 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -144 navBarHeight: 144
+08-02 19:27:36.869  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.870  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.873  7411  7411 I WindowMetricsNotification: WindowMetricsNotification.notifyWithWindow():166
+08-02 19:27:36.874  7411  7411 I WindowMetricsNotification: WindowMetricsNotification.notify():159 osy[bounds=Rect(0, 159 - 1344, 2992), insets=Rect(0, 0 - 0, 144), densityDpi=480, smallestScreenWidthDp=448, displayWidth=1344, displayHeight=2992, xdpi=480.0, ydpi=480.0, isTrustable=true, displayId=0]; DisplayMetrics{density=3.0, width=1344, height=2992, scaledDensity=3.0, xdpi=480.0, ydpi=480.0}
+08-02 19:27:36.913  7411  7411 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():323 onKeyboardViewShown: keyboardType=prime, keyboardViewType=HEADER keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{cda6f80 V.E...... ........ 0,0-1344,132 aid=9}
+08-02 19:27:36.913  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.915  7411  7411 I GoogleInputMethodService: GoogleInputMethodService$1.onKeyboardViewShown():323 onKeyboardViewShown: keyboardType=prime, keyboardViewType=BODY keyboardView=com.google.android.libraries.inputmethod.widgets.SoftKeyboardView{643d6ca V.E...... ........ 0,0-1344,732 aid=40}
+08-02 19:27:36.915  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:36.916  7411  7411 I GlobeKeyExtension: GlobeKeyExtension$1.onKeyboardViewShown():72 maybeDisableLanguageSwitchKeyPref when the keyboard is shown
+08-02 19:27:36.916  7411  7411 I GlobeKeyExtension: GlobeKeyExtension.maybeDisableLanguageSwitchKeyPref():203 maybeDisableLanguageSwitchKeyPref hasGlobeKeyBeenDisabled: false, alwaysDisableLanguageSwitchKey: false, shouldDisableLanguageSwitchKey: false
+08-02 19:27:36.917  7411  7411 I NewLanguagePromptExtension: NewLanguagePromptExtension$1.onKeyboardViewShown():98 Not show new language banner: no change in enabled input method entries
+08-02 19:27:36.928  7411  7498 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():528 setKeyboardLayout()
+08-02 19:27:36.935 12533 12533 D InsetsController: show(ime(), fromIme=true)
+08-02 19:27:36.944   885  1009 D EGL_emulation: app_time_stats: avg=83.46ms min=2.42ms max=853.68ms count=11
+08-02 19:27:36.974 12533 12565 W InteractionJankMonitor: Initializing without READ_DEVICE_CONFIG permission. enabled=false, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=osauzo.ajiri.unitanduitests
+08-02 19:27:36.992  1088  1088 V InlineSuggestionRenderService: handleDestroySuggestionViews called for 0:1654552441
+08-02 19:27:36.997  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-02 19:27:37.000 12533 12533 D UiControllerImpl: Injecting string: "abcdef"
+08-02 19:27:37.015  7411  7411 I Delight5Decoder: Delight5DecoderWrapper.setKeyboardLayout():528 setKeyboardLayout()
+08-02 19:27:37.029  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.054  7411  7411 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():73 initialize...
+08-02 19:27:37.054  7411  7411 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():72 onContentChanged()
+08-02 19:27:37.054  7411  7411 I ContactsDataManager: ContactsDataManager.onContentChanged():153 onContentChanged()
+08-02 19:27:37.055  7411  7411 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():83 initialize...done
+08-02 19:27:37.086  7411  7528 I AndroidSpellCheckerService: AndroidSpellCheckerService.createSession():139 com.google.android.keyboard.client.delight5.LanguageIdentifier@e97afb4 is created
+08-02 19:27:37.106  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.128  1187  1643 D EGL_emulation: app_time_stats: avg=36.44ms min=2.55ms max=506.95ms count=29
+08-02 19:27:37.180  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.202 12533 12533 I ImeTracker: osauzo.ajiri.unitanduitests:d7589f8e: onShown
+08-02 19:27:37.242  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.279  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.323  7411  7498 I native  : I0000 00:00:1754177257.322942    7498 input-context-store.cc:269] Ignoring stale client request for FetchSuggestions
+08-02 19:27:37.323  7411  7411 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 164<172, inputStateId=135, lastInputStateId=135
+08-02 19:27:37.333  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.354  7411  7498 I native  : I0000 00:00:1754177257.354023    7498 input-context-store.cc:269] Ignoring stale client request for FetchSuggestions
+08-02 19:27:37.356  7411  7411 W InputContextProxy: InputContextProxy.applyClientDiffInternal():933 Ignore [FetchSuggestions] diff due to stale request: 172<174, inputStateId=136, lastInputStateId=136
+08-02 19:27:37.359  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id access_points_entry_button_tooltip not found in tooltipManager.
+08-02 19:27:37.374  7411  7411 I KeyboardModeUtils: KeyboardModeUtils.getKeyboardBottomOffset():433 inch: 0.000000 ydpi: 480.000000 adjustKeyboardBottomByDisplaySize: false currentDensityDpi: 480 defaultDensityDpi: 480 keyboardBottomToScreenPx: 0 keyboardBottomToNavBarPx: -144 navBarHeight: 144
+08-02 19:27:37.374  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:37.374  7411  7411 I KeyboardHeightUtil: KeyboardHeightUtil.calculateMaxKeyboardBodyHeight():50 leave 321 height for app when ime window height:2689, header height:132 and isFullscreenMode:false, so the max keyboard body height is:2236
+08-02 19:27:37.385 12533 12533 I ViewInteraction: Performing 'close keyboard' action on view view.getId() is <2131230896/osauzo.ajiri.unitanduitests:id/editTextUserInput>
+08-02 19:27:37.403 12533 12533 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@7798be2]
+08-02 19:27:37.405 12533 12533 I ImeTracker: osauzo.ajiri.unitanduitests:9e9a8f6e: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT fromUser false
+08-02 19:27:37.413  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():1531 onFinishInputView(false)
+08-02 19:27:37.413  7411  7411 I GlobeKeyExtension: GlobeKeyExtension.onDeactivate():144
+08-02 19:27:37.413  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id SUGGESTION_VIEW_EDU_MINI_DIALOG not found in tooltipManager.
+08-02 19:27:37.414  7411  7411 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():131 shutdown()
+08-02 19:27:37.414  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+08-02 19:27:37.415  7411  7411 I InputBundle: InputBundle.consumeEvent():999 Skip consuming an event as keyboard status is 0
+08-02 19:27:37.415  7411  7411 I AndroidIME: AbstractIme.onDeactivate():216 LatinIme.onDeactivate()
+08-02 19:27:37.416  7411  7490 W ModuleManager: ModuleManager.loadModule():516 Module nqc is not available
+08-02 19:27:37.419  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+08-02 19:27:37.421  7411  7490 I OnDeviceWmrCalculator: OnDeviceWmrCalculator.calculateWmr():94 WMR: 0.0000 (0 / 1)
+08-02 19:27:37.424 12533 12533 D InsetsController: hide(ime(), fromIme=true)
+08-02 19:27:37.530 12533 12537 I .unitanduitests: Compiler allocated 4219KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+08-02 19:27:37.642 12533 12533 I ImeTracker: osauzo.ajiri.unitanduitests:d58fb829: onRequestHide at ORIGIN_CLIENT reason HIDE_SOFT_INPUT_ON_ANIMATION_STATE_CHANGED fromUser false
+08-02 19:27:37.645   610   751 I ImeTracker: osauzo.ajiri.unitanduitests:d58fb829: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-02 19:27:37.645 12533 12533 I ImeTracker: osauzo.ajiri.unitanduitests:9e9a8f6e: onHidden
+08-02 19:27:37.723 12533 12533 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@7798be2]
+08-02 19:27:37.729 12533 12533 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230790/osauzo.ajiri.unitanduitests:id/activityChangeTextBtn>
+08-02 19:27:37.817 12533 12548 D EGL_emulation: app_time_stats: avg=65.68ms min=3.37ms max=444.55ms count=20
+08-02 19:27:37.869   415  4018 D audioserver: logFgsApiBegin: FGS Logger Transaction failed, -129
+08-02 19:27:37.873   610  1934 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@ea1ae55e does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 19:27:37.936   610  1721 W AS.PlaybackActivityMon: No piid assigned for invalid/internal port id 15
+08-02 19:27:37.937   415   558 D AudioFlinger: mixer(0x7d598c39f8e0) throttle end: throttle time(35)
+08-02 19:27:37.954   425   425 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+08-02 19:27:37.964 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: PAUSED
+08-02 19:27:37.965 12533 12533 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=osauzo.ajiri.unitanduitests.MainActivity@b6402c6
+08-02 19:27:38.001 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60 in: PRE_ON_CREATE
+08-02 19:27:38.003 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }, activity.getIntent()=Intent { cmp=osauzo.ajiri.unitanduitests/.ShowTextActivity (has extras) }, activity=osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60
+08-02 19:27:38.024 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60 in: CREATED
+08-02 19:27:38.027 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }, activity.getIntent()=Intent { cmp=osauzo.ajiri.unitanduitests/.ShowTextActivity (has extras) }, activity=osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60
+08-02 19:27:38.032 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60 in: STARTED
+08-02 19:27:38.032 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }, activity.getIntent()=Intent { cmp=osauzo.ajiri.unitanduitests/.ShowTextActivity (has extras) }, activity=osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60
+08-02 19:27:38.037 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60 in: RESUMED
+08-02 19:27:38.039 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }, activity.getIntent()=Intent { cmp=osauzo.ajiri.unitanduitests/.ShowTextActivity (has extras) }, activity=osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60
+08-02 19:27:38.099   415   558 D audioserver: logFgsApiEnd: FGS Logger Transaction failed, -129
+08-02 19:27:38.125   610   636 I ActivityTaskManager: Displayed osauzo.ajiri.unitanduitests/.ShowTextActivity for user 0: +250ms
+08-02 19:27:38.155  7411  7411 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():153 Tooltip with id undo_access_point_promotion_banner not found in tooltipManager.
+08-02 19:27:38.318   610   751 I ImeTracker: osauzo.ajiri.unitanduitests:e2beb2cb: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+08-02 19:27:38.318   610   751 I ImeTracker: osauzo.ajiri.unitanduitests:e2beb2cb: onCancelled at PHASE_SERVER_SHOULD_HIDE
+08-02 19:27:38.321  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():2045
+08-02 19:27:38.330 12533 12533 W RemoteInputConnectionImpl: requestCursorUpdates on inactive InputConnection
+08-02 19:27:38.333  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 0, locked = false
+08-02 19:27:38.334  7411  7411 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1311 onStartInput(EditorInfo{EditorInfo{packageName=osauzo.ajiri.unitanduitests, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+08-02 19:27:38.340  7411  7411 I Module  : DeviceLockedStatusModuleProvider$Module.updateDeviceLockedStatus():100 repeatCheckTimes = 1, locked = false
+08-02 19:27:38.341  7411  7411 I ShortcutsDataManager: AbstractContentDataManager.startImportContentTask():242 startImportContentTask()
+08-02 19:27:38.344  7411  7500 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.doInBackground():257 doInBackground()
+08-02 19:27:38.344  7411  7500 I PersonalDictionaryDataHandler: PersonalDictionaryDataHandler.beginProcess():114 LanguageTags = [en-US]
+08-02 19:27:38.373  7411  7500 I ShortcutsDataManager: AbstractContentDataManager.importRecords():348 importRecords() : Success : Count = 0
+08-02 19:27:38.380  7411  7500 I ShortcutsDataManager: AbstractContentDataManager.importContentData():297 importContentData() : Ending import process
+08-02 19:27:38.380  7411  7498 I Delight5Decoder: Delight5DecoderWrapper.unloadLanguageModel():959 unloadLanguageModel() : 4, version [n/a]
+08-02 19:27:38.400  7411  7500 I PersonalLanguageModelUpdater: PersonalLanguageModelUpdater$UpdateOperation.performInternal():165 run() : Added 0 words and 0 shortcuts
+08-02 19:27:38.400  7411  7500 I DynamicLanguageModelOperation: DynamicLanguageModelOperation.perform():43 perform() : 4 : dzd : Completed
+08-02 19:27:38.401  7411  7411 I ShortcutsDataManager: AbstractContentDataManager$ImportContentTask.onPostExecute():268 onPostExecute() : Result = [2,0]
+08-02 19:27:38.402  7411  7498 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():748 loadLanguageModel() : 4, version [n/a]
+08-02 19:27:38.402  7411  7411 I ShortcutsDataManager: ShortcutsDataManager.onImportFinished():82 onImportFinished() : Result = 2 : Count = 0
+08-02 19:27:38.403  7411  7498 I Delight5Decoder: Delight5DecoderWrapper.loadLanguageModel():793 Loaded dynamic LM 4.en
+08-02 19:27:38.417 12533 12533 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() with or without transformation to match: is "abcdef"}' assertion on view view.getId() is <2131231124/osauzo.ajiri.unitanduitests:id/show_text_view>
+08-02 19:27:38.435   610  1721 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@ebcfbdfd does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 19:27:38.452 12533 12537 I .unitanduitests: Compiler allocated 5174KB to compile void android.view.ViewRootImpl.performTraversals()
+08-02 19:27:38.468 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60 in: PAUSED
+08-02 19:27:38.468 12533 12533 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=osauzo.ajiri.unitanduitests/.MainActivity }, activity.getIntent()=Intent { cmp=osauzo.ajiri.unitanduitests/.ShowTextActivity (has extras) }, activity=osauzo.ajiri.unitanduitests.ShowTextActivity@cbabf60
+08-02 19:27:38.473   610   639 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@ebcfbdfd does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+08-02 19:27:38.474  1187  1187 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=142, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=osauzo.ajiri.unitanduitests.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }
+08-02 19:27:38.481   470  4485 W IPCThreadState: Sending oneway calls to frozen process.
+08-02 19:27:38.518   370   370 D Zygote  : Forked child process 12573
+08-02 19:27:38.564 12533 12533 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 19:27:38.582 12533 12548 D HWUI    : endAllActiveAnimators on 0x7e51140edb80 (RippleDrawable) with handle 0x7e50541285e0
+08-02 19:27:38.591   885  1009 D EGL_emulation: app_time_stats: avg=171.78ms min=2.01ms max=1459.03ms count=9
+08-02 19:27:38.602 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: STOPPED
+08-02 19:27:38.606 12533 12533 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=osauzo.ajiri.unitanduitests.MainActivity@b6402c6
+08-02 19:27:38.606   393   393 I RanchuHwc: logCompositionFallbackIfChanged: layer 150 CompositionType fallback from 3 to 1
+08-02 19:27:38.633 12573 12573 I anduitests.test: Late-enabling -Xcheck:jni
+08-02 19:27:38.715  1187  1198 W System  : A resource failed to call release.
+08-02 19:27:38.715  1187  1198 W System  : A resource failed to call release.
+08-02 19:27:38.715  1187  1198 W System  : A resource failed to call release.
+08-02 19:27:38.722  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/base.apk' with 1 weak references
+08-02 19:27:38.725  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_chrome.apk' with 1 weak references
+08-02 19:27:38.727  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.728  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_dev_ui.apk' with 1 weak references
+08-02 19:27:38.729  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_google3.apk' with 1 weak references
+08-02 19:27:38.729  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_stack_unwinder.apk' with 1 weak references
+08-02 19:27:38.730  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TcDtm5fEcEO3H2f5pnuLfQ==/com.android.chrome--tsQKb4JAA-dsPXdpPJOgg==/split_test_dummy.apk' with 1 weak references
+08-02 19:27:38.730  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~e7GbFgVE-Fkw9yieS5_B3A==/com.google.android.trichromelibrary_720417938-ryGhBSIi4dF019CI6Fob7Q==/base.apk' with 1 weak references
+08-02 19:27:38.731  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/SystemUIGoogle/SystemUIGoogle.apk' with 1 weak references
+08-02 19:27:38.733  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '/vendor/overlay/SystemUIGoogle__sdk_gphone64_x86_64__auto_generated_rro_vendor.apk' with 1 weak references
+08-02 19:27:38.735  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '/product/overlay/SystemUIGoogle__sdk_gphone64_x86_64__auto_generated_rro_product.apk' with 1 weak references
+08-02 19:27:38.737  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '/product/overlay/SystemUIEmulationPixel9ProXL/SystemUIEmulationPixel9ProXLOverlay.apk' with 1 weak references
+08-02 19:27:38.738  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~PWdp6HS10wI5hTSqBuU21g==/com.google.android.apps.docs-Z4yIx4tYSYszJO5ISOlS2Q==/base.apk' with 1 weak references
+08-02 19:27:38.739  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~PWdp6HS10wI5hTSqBuU21g==/com.google.android.apps.docs-Z4yIx4tYSYszJO5ISOlS2Q==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.739  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~PWdp6HS10wI5hTSqBuU21g==/com.google.android.apps.docs-Z4yIx4tYSYszJO5ISOlS2Q==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.739  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~PWdp6HS10wI5hTSqBuU21g==/com.google.android.apps.docs-Z4yIx4tYSYszJO5ISOlS2Q==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.741  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Z1xrv-IaQZAYynTUV8vkfA==/com.google.android.apps.maps-dJob2iEp0JtmI0sBfWOzEg==/base.apk' with 1 weak references
+08-02 19:27:38.742  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Z1xrv-IaQZAYynTUV8vkfA==/com.google.android.apps.maps-dJob2iEp0JtmI0sBfWOzEg==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.743  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Z1xrv-IaQZAYynTUV8vkfA==/com.google.android.apps.maps-dJob2iEp0JtmI0sBfWOzEg==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.744  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~Z1xrv-IaQZAYynTUV8vkfA==/com.google.android.apps.maps-dJob2iEp0JtmI0sBfWOzEg==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.744  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~BoyyD3BBubv_VpUtdG_FXQ==/com.google.android.apps.photos-aZZtYphoeTM-ws1V3XO3mg==/base.apk' with 1 weak references
+08-02 19:27:38.745  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~BoyyD3BBubv_VpUtdG_FXQ==/com.google.android.apps.photos-aZZtYphoeTM-ws1V3XO3mg==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.745  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~BoyyD3BBubv_VpUtdG_FXQ==/com.google.android.apps.photos-aZZtYphoeTM-ws1V3XO3mg==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.746  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~BoyyD3BBubv_VpUtdG_FXQ==/com.google.android.apps.photos-aZZtYphoeTM-ws1V3XO3mg==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.746  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~kqpTaWaxQ9p49S1RlJF5lQ==/com.google.android.apps.wellbeing-h8HvXt_BKXinHTBm9AZuFA==/base.apk' with 1 weak references
+08-02 19:27:38.746  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~kqpTaWaxQ9p49S1RlJF5lQ==/com.google.android.apps.wellbeing-h8HvXt_BKXinHTBm9AZuFA==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.747  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~yLTIdt9UHuf2zaeGnKPd1Q==/com.google.android.apps.youtube.music-jO5qFZ76a-i6uXpagMFlag==/base.apk' with 1 weak references
+08-02 19:27:38.750  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~yLTIdt9UHuf2zaeGnKPd1Q==/com.google.android.apps.youtube.music-jO5qFZ76a-i6uXpagMFlag==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.751  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~ttwnqYe2PR4n5FhYrnCfUw==/com.google.android.calendar-NieE2GOPG5bTHQlHVh3lAw==/base.apk' with 1 weak references
+08-02 19:27:38.752  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~ttwnqYe2PR4n5FhYrnCfUw==/com.google.android.calendar-NieE2GOPG5bTHQlHVh3lAw==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.753  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~ttwnqYe2PR4n5FhYrnCfUw==/com.google.android.calendar-NieE2GOPG5bTHQlHVh3lAw==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.754  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~ttwnqYe2PR4n5FhYrnCfUw==/com.google.android.calendar-NieE2GOPG5bTHQlHVh3lAw==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.756  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~GAk8_ERix1vXGcRAEpb7_A==/com.google.android.contacts-ihMI8NGj5cenRbmCYLLNag==/base.apk' with 1 weak references
+08-02 19:27:38.757  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~GAk8_ERix1vXGcRAEpb7_A==/com.google.android.contacts-ihMI8NGj5cenRbmCYLLNag==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.758  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~GAk8_ERix1vXGcRAEpb7_A==/com.google.android.contacts-ihMI8NGj5cenRbmCYLLNag==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.758  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~GAk8_ERix1vXGcRAEpb7_A==/com.google.android.contacts-ihMI8NGj5cenRbmCYLLNag==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.760  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~jurinqN4Z5wO67nvK5N_Pw==/com.google.android.deskclock-3dn-zqoyiXcoQrvc0wrAzA==/base.apk' with 1 weak references
+08-02 19:27:38.762  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~jurinqN4Z5wO67nvK5N_Pw==/com.google.android.deskclock-3dn-zqoyiXcoQrvc0wrAzA==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.763  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~EmNjJfVkk4kjZDtviz-TbA==/com.google.android.gm-LuNCmZOQ3zGLVAuGMNhMPw==/base.apk' with 1 weak references
+08-02 19:27:38.765  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~EmNjJfVkk4kjZDtviz-TbA==/com.google.android.gm-LuNCmZOQ3zGLVAuGMNhMPw==/split_config.en.apk' with 1 weak references
+08-02 19:27:38.765  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~EmNjJfVkk4kjZDtviz-TbA==/com.google.android.gm-LuNCmZOQ3zGLVAuGMNhMPw==/split_config.x86_64.apk' with 1 weak references
+08-02 19:27:38.765  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~EmNjJfVkk4kjZDtviz-TbA==/com.google.android.gm-LuNCmZOQ3zGLVAuGMNhMPw==/split_config.xxhdpi.apk' with 1 weak references
+08-02 19:27:38.766  1187  1198 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~TeLeVeULVxquqvu-QWEsLA==/osauzo.ajiri.unitanduitests-ccQsx1wP_IDSxzrH7Scj3A==/base.apk' with 1 weak references
+08-02 19:27:38.815  1187  1643 D EGL_emulation: app_time_stats: avg=67.65ms min=2.30ms max=968.96ms count=24
+08-02 19:27:38.821 12573 12573 I anduitests.test: Using CollectorTypeCMC GC.
+08-02 19:27:38.827 12573 12573 W anduitests.test: Unexpected CPU variant for x86: x86_64.
+08-02 19:27:38.827 12573 12573 W anduitests.test: Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, default
+08-02 19:27:38.848   444   457 I adbd    : jdwp connection from 12573
+08-02 19:27:38.899 12573 12573 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+08-02 19:27:38.980 12573 12573 D CompatChangeReporter: Compat change id reported: 242716250; UID 10252; state: ENABLED
+08-02 19:27:39.021 12573 12573 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-02 19:27:39.037 12573 12573 D nativeloader: Configuring clns-7 for other apk /system/framework/android.test.mock.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/osauzo.ajiri.unitanduitests.test
+08-02 19:27:39.052 12573 12573 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+08-02 19:27:39.068 12573 12573 D nativeloader: Configuring clns-8 for other apk /system/framework/android.test.runner.jar. target_sdk_version=34, uses_libraries=ALL, library_path=/data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/osauzo.ajiri.unitanduitests.test
+08-02 19:27:39.082 12573 12573 W ziparchive: Unable to open '/data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/base.dm': No such file or directory
+08-02 19:27:39.082 12573 12573 W ziparchive: Unable to open '/data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/base.dm': No such file or directory
+08-02 19:27:39.124 12533 12533 D VRI[ShowTextActivity]: visibilityChanged oldVisibility=true newVisibility=false
+08-02 19:27:39.151 12573 12573 D nativeloader: Configuring clns-9 for other apk /data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/base.apk. target_sdk_version=34, uses_libraries=, library_path=/data/app/~~CmrG0tkcxHFnizjn2QkSQQ==/osauzo.ajiri.unitanduitests.test-GyQORNKJoo-Zztl1gGtkhQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/osauzo.ajiri.unitanduitests.test
+08-02 19:27:39.179 12573 12573 V GraphicsEnvironment: Currently set values for:
+08-02 19:27:39.179 12573 12573 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+08-02 19:27:39.179 12573 12573 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+08-02 19:27:39.179 12573 12573 V GraphicsEnvironment: Global.Settings values are invalid: number of packages: 0, number of values: 0
+08-02 19:27:39.181 12573 12573 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+08-02 19:27:39.298 12573 12573 W HWUI    : Unknown dataspace 0
+08-02 19:27:39.300 12533 12533 D LifecycleMonitor: Lifecycle status change: osauzo.ajiri.unitanduitests.MainActivity@b6402c6 in: DESTROYED
+08-02 19:27:39.304 12533 12533 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-02 19:27:39.307 12533 12533 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@f9e20d
+08-02 19:27:39.309 12533 12546 I TestRunner: finished: enterABCDEF_thenOpenActivity_displaysTextInShowTextActivity(osauzo.ajiri.unitanduitests.ExampleInstrumentedTest)

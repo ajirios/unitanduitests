@@ -1,0 +1,3 @@
+osauzo.ajiri.unitanduitests.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

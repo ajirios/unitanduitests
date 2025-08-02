@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="osauzo.ajiri.unitanduitests.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="5.887" timestamp="2025-08-02T23:27:42" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_9_Pro_XL_API_35(AVD) - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="enterABCDEF_thenOpenActivity_displaysTextInShowTextActivity" classname="osauzo.ajiri.unitanduitests.ExampleInstrumentedTest" time="3.543" />
+</testsuite>

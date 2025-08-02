@@ -1,0 +1,2 @@
+osauzo.ajiri.unitanduitests.test:style/WhiteBackgroundTheme = 0x7f010001
+osauzo.ajiri.unitanduitests.test:style/WhiteBackgroundDialogTheme = 0x7f010000

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="osauzo.ajiri.unitanduitests.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-08-02T23:30:25" hostname="MacBookPro.fc.ca" time="0.006">
+  <properties/>
+  <testcase name="invalidEmail_null_returnsFalse" classname="osauzo.ajiri.unitanduitests.ExampleUnitTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

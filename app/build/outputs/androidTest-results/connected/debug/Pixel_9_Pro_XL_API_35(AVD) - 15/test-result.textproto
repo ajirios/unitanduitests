@@ -1,0 +1,68 @@
+# 2025-08-02T23:27:42.055182Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "osauzo.ajiri.unitanduitests"
+    test_method: "enterABCDEF_thenOpenActivity_displaysTextInShowTextActivity"
+    start_time {
+      seconds: 1754177256
+      nanos: 132000000
+    }
+    end_time {
+      seconds: 1754177259
+      nanos: 673000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/user/AndroidStudioProjects/UnitAndUITests/app/build/outputs/androidTest-results/connected/debug/Pixel_9_Pro_XL_API_35(AVD) - 15/logcat-osauzo.ajiri.unitanduitests.ExampleInstrumentedTest-enterABCDEF_thenOpenActivity_displaysTextInShowTextActivity.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/user/AndroidStudioProjects/UnitAndUITests/app/build/outputs/androidTest-results/connected/debug/Pixel_9_Pro_XL_API_35(AVD) - 15/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/user/AndroidStudioProjects/UnitAndUITests/app/build/outputs/androidTest-results/connected/debug/Pixel_9_Pro_XL_API_35(AVD) - 15/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/user/AndroidStudioProjects/UnitAndUITests/app/build/outputs/androidTest-results/connected/debug/Pixel_9_Pro_XL_API_35(AVD) - 15/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/user/AndroidStudioProjects/UnitAndUITests/app/build/outputs/androidTest-results/connected/debug/Pixel_9_Pro_XL_API_35(AVD) - 15/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
